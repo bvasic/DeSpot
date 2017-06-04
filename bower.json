@@ -1,0 +1,21 @@
+{
+  "name": "despot",
+  "description": "Extreme Tech Training",
+  "main": "index.js",
+  "authors": [
+    "Bojan Vasic"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "toastr": "^2.1.3",
+    "angular": "^1.6.4",
+    "angular-resource": "^1.6.4",
+    "angular-route": "^1.6.4"
+  },
+  "resolutions": {
+    "jquery": ">=1.6.3 <3"
+  }
+}
